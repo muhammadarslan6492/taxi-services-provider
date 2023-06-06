@@ -1,0 +1,2309 @@
+{
+  "vehicleList": [
+    {
+      "brandName": "Alfa Romeo",
+      "list": [
+        {
+          "carName": "Giulia",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Giulietta",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Audi",
+      "list": [
+        {
+          "carName": "A3",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A3 Limousine",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A3 Sportback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A3 e-tron",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A4",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A4 Avant",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A4 Convertible",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A5 Avant",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A5 Convertible",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A5 Sportback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A6",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A6 Avant",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A7",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A8",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A8 L",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Allroad",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Q3",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Q5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Q7",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Q8",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Q9",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "RS 3",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "RS 4",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "RS 5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "RS 6",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "RS 7",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "RS Q3",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S3",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S4",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S4 Avant",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S5 Sportback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S6",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S7",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S8",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "SQ5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "SQ7",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "e-tron",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "e-tron Sportback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "BMW",
+      "list": [
+        {
+          "carName": "1-serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "2-Series 225xe",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "2-Series 225xe",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "2-Serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "2-series Active Tourer",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Gran Coupé uit de 2-serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "2-series Gran Tourer",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "3-Series 330e ",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "3-serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Gran Turismo 3-serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "4-serie ",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Gran Coupe 4-serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "5-Series 530e",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "5-serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Gran Turismo 5-serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "6-serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Gran Coupe 6-serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "7-Series 745e",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "7-serie",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "740i",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ActiveHybrid 5 ",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ActiveHybrid 7",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Alpina B5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Alpina B7",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "M5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "M6 Gran Coupe",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "X1",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "X2",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "X3",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "X4",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "X5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "X6",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "i4",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "iX",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "iX3",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Chevrolet",
+      "list": [
+        {
+          "carName": "Captiva",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Cruze",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Cruze Sport6",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Epica",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Orlando",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Chrysler",
+      "list": [
+        {
+          "carName": "Voyager",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Citroën",
+      "list": [
+        {
+          "carName": "Berlingo",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Berlingo XL",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C4",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C4 Aircross",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C4 Cactus",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C4 Grand Picasso",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C4 Lounge",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C4 Picasso",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C4L",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C6",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C8",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "DS5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "DS6",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "DS7",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Grand C4 SpaceTourer",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Grand Picasso",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Jumpy",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "SpaceTourer",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Dacia",
+      "list": [
+        {
+          "carName": "Duster",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Lodgy",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Lodgy Stepway",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Logan",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Fiat",
+      "list": [
+        {
+          "carName": "Freemont",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Talento",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Tipo",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Tipo Station Wagon",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Ford",
+      "list": [
+        {
+          "carName": "C-Max",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C-Max Energi",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C-Max Hybride",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Focus",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Focus Combi",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Focus Electric",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Focus Hatchback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Focus Sportbreak",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Focus Titanium",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Galaxy",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Grand C-Max",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Kuga",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Mondeo",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S-Max",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Tourneo Connect",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Tourneo Custom",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Transit Connect",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Transit Custom",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Honda",
+      "list": [
+        {
+          "carName": "Accord",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Accord Crosstour",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Amaze",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "CR-V",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Civic",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "HR-V",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Insight",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Hyundai",
+      "list": [
+        {
+          "carName": "H-1",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Grandeur",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "IONIQ Electric",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Ioniq",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Ioniq Plug-in Hybrid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Kona",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Kona Electric",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Nexo",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Santa Fe",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Santa Fe Sport",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Sonata",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Sonata Plug-in Hybrid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Tucson",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Tucson Fuel Cell",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "i30",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "i30 Fastback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "i30 Hatchback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "i30 Kombi",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "i30 Wagon",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "i40",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "i40 Sport Wagon",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ix35",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ix55",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Jaguar",
+      "list": [
+        {
+          "carName": "E-PACE",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "F-PACE",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "I-PACE",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XE",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XF",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XF Sportbrake",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XJ",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Jaguar",
+      "list": [
+        {
+          "carName": "E-PACE",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "F-PACE",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "I-PACE",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XE",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XF",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XF Sportbrake",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XJ",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Jeep",
+      "list": [
+        {
+          "carName": "Cherokee",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Grand Cherokee",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Kia",
+      "list": [
+        {
+          "carName": "Carens",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Cee'd",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Cee'd Sportswagon",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Ceed Combi",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Ceed Hatchback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "E-Niro",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Niro",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Niro Plug-In Hybrid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Optima",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ProCeed",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Sorento",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Soul",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Soul EV",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Sportage",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Stinger",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XCeed",
+          "manufacturing": ["2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Lancia",
+      "list": [
+        {
+          "carName": "Thema",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Voyager",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Land Rover",
+      "list": [
+        {
+          "carName": "Discovery",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Range Rover",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Range Rover Evoque",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Range Rover Sport",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Range Rover Velar",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Range Rover Vogue",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Lexus",
+      "list": [
+        {
+          "carName": "CT",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ES",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ES Hybride",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "GS",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "GX",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "IS",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "LS",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "LX",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "NX Hybride",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "RX",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "RX L",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "UX",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "UX Hybrid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "MG",
+      "list": [
+        {
+          "carName": "ZS",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ZS EV",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Mazda",
+      "list": [
+        {
+          "carName": "CX-30",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "CX-5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "MAZDA3",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "MAZDA5",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "MAZDA6",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "MAZDA8",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "list": [
+        {
+          "carName": "V-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Viano",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Vito",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "A-Klasse Berline",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "B-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "B200",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "B250e",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C 180",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C 200",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C 250",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C 300",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C 400",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C350e",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "CLA-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "CLS-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "E 200",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "E 220",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "E-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "E-klasse Wagon",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "E350e",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "EQA",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "EQC",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "GL-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "GLA-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "GLB",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "GLC Coupe",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "GLC-Class",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "GLE-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "GLK-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "GLS-Class",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "M-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ML-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Metris",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Metris Passenger Van",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S-klasse",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Mini",
+      "list": [
+        {
+          "carName": "Countryman",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Mitsubishi",
+      "list": [
+        {
+          "carName": "ASX",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Eclipse Cross",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Grandis",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Lancer",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Outlander",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Outlander PHEV",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Outlander Sport",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Nissan",
+      "list": [
+        {
+          "carName": "Juke",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "LEAF",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "LEAF EV",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Qashqai",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Qashqai+2",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "X-Trail",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "e-NV200",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Opel",
+      "list": [
+        {
+          "carName": "Ampera",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Astra",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Astra Sports Tourer",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Crossland X",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Grandland X",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Insignia",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Insignia Sports Tourer",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Meriva",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Mokka",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Vivaro",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Zafira",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Zafira Tourer",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Peugeot",
+      "list": [
+        {
+          "carName": "308",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "407",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "408",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "508",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "2008",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "3008",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "4008",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "5008",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "308 SW",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "508 SW",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "E-2008",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Expert",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Traveller",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Polestar",
+      "list": [
+        {
+          "carName": "2",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Porche",
+      "list": [
+        {
+          "carName": "Canyenne",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Cayenne Coupe",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Cayman",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Cayman S",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Macan",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Macan Turbo",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Panamera",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Panamera Hybrid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Panamera Sport Turismo",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Taycan",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Renault",
+      "list": [
+        {
+          "carName": "Captur",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Espace",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Fluence",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Grand Scenic",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "KADJAR",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Koleos",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Laguna",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Megane",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Mégane Estate",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Megane Grandtour",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Megane Hatchback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Megane Sport Tourer",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Scenic",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Talisman",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Talisman Estate",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Trafic",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Seat",
+      "list": [
+        {
+          "carName": "Alhambra",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Ateca",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Exeo",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Leon",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Leon Hatchback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Leon ST",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Skoda",
+      "list": [
+        {
+          "carName": "Enyaq",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Karoq",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Kodiaq",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Octavia",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Octavia Combi",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Rapid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Rapid Spaceback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Scala",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Superb",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Superb Combi",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Enyaq iV",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Ssangyong",
+      "list": [
+        {
+          "carName": "Korando",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Rexton",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Tivoli",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Subaru",
+      "list": [
+        {
+          "carName": "Forester",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Legacy",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Outback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Suzuki",
+      "list": [
+        {
+          "carName": "S-Cross",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Tesla",
+      "list": [
+        {
+          "carName": "Model 3",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Model S",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Model X",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Model Y",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Toyota",
+      "list": [
+        {
+          "carName": "Auris",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Auris Combi",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Auris Hatchback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Auris Hybrid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Auris Hybrid Touring Sports",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Auris Touring Sports",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Avensis",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "C-HR",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Camry",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Camry Hybrid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Camry Solara",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Corolla",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Corolla Hatchback",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Corolla Sedan",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Corolla Touring Sports",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Corolla Wagon",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Mirai",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Previa",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Prius",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Prius Plug-in",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Prius+",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Proace",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Proace City Verso",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "RAV4",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "RAV4 Hybride",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Verso",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Volkswagen",
+      "list": [
+        {
+          "carName": "Caravelle",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Multivan",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Transporter",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Arteon",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "CC",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Caddy",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Caddy Maxi",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Golf",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Golf Alltrack",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Golf Estate",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Golf Plus",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Golf SportWagen",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Golf Sportsvan",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Golf Variant",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ID.3",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "ID.4",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Jetta",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Jetta SportWagen",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Kombi",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Passat",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Passat GTE",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Passat-stationwagon",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Phaeton",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Sharan",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Tiguan",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Touareg",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "Tauran",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "e-Golf",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    },
+    {
+      "brandName": "Volvo",
+      "list": [
+        {
+          "carName": "S40",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S60",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S60 Hybrid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S70",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S80",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "S90",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "V40",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "V50",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "V60",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "V70",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "V90",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XC40",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XC40 Electric",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XC60",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XC60 Hybrid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XC70",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XC90",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        },
+        {
+          "carName": "XC90 Hybrid",
+          "manufacturing": ["2010", "2011"],
+          "category": "standard"
+        }
+      ]
+    }
+  ]
+}
